@@ -1,4 +1,4 @@
-# Azure OpenAI - DIO
+# Azure OpenAI - DIO - Lab 01
 Resumo do conteúdo aprendido durante o curso de Azure OpenAI na DIO
 
 ## O que é o Playground do Azure OpenAI?
